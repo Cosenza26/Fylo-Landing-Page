@@ -1,0 +1,88 @@
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@400;700&display=swap);
+.btn-2,.sectionOne,.sectionThree,.social,.title,.title-three{text-align:center}
+
+.fa,.fylo{text-decoration:none}*
+
+,::after,::before{box-sizing:content-box}
+
+body{margin:0;font-family:"Raleway",sans-serif;color:#060339;line-height:1.6rem}
+
+img{max-width:100%;display:block}
+
+.container{margin:0 auto;width:85%}
+
+.header{padding-top:2rem}
+
+.title{line-height:2.5rem}
+
+.logo{display:inline-block;width:6rem}
+
+.tabs{display:flex;gap:1rem;float:right}
+
+.btn,.fylo{display:block}
+
+.sectionOne{padding-top:5rem;padding-bottom:5rem}
+
+.btn,.email{padding:1rem 0;border-radius:5px}
+
+.email{margin:1rem 0;width:100%;color:gray}
+
+.btn,.sectionThree{width:100%;color:#fff}
+
+.btn{background-color:#3065f7}
+
+.btn-2:hover,.btn:hover{background-color:#7698f3}
+
+.sectionTwo{background-color:#f6f6fd;width:100%;padding-bottom:4rem}
+
+.sectionTwo-image{object-fit:cover;width:100%;height:100%;margin-bottom:0}
+
+.heroimageTwo{padding-top:5rem;padding-bottom:3rem}
+
+.sectionThree{background-color:#575988}
+
+.fylo{padding:.25rem;color:#3c9e8e;border-bottom-style:solid;border-bottom-width:.05rem;width:fit-content;margin:0 auto}
+
+.arrow{display:inline-block;vertical-align:middle;width:1.25rem}
+
+.card{width:80%;margin:2rem auto 0;background-color:#fff;color:#575988;padding:2rem 1rem 2rem 2rem;box-shadow:.5rem .5rem .5rem .5rem grey blur;border-radius:5px;box-shadow:rgba(100,100,111,.2) 0 7px 29px 0}
+
+.avatarProfile{display:flex}
+
+.avatarImg{border-radius:50%;width:3rem}
+
+.avatarInfo{padding-left:.5rem;align-self:center}
+
+.avatarName{padding-bottom:.25rem;font-weight:700}
+
+.avatarJob{font-size:.6rem}
+
+.sectionThree{padding-bottom:4rem}
+
+.title-three{padding-top:3rem}
+
+.btn-2,.email-2{width:80%;padding:1rem 0;border-radius:5px}
+
+.email-2{align-content:center;margin:0 auto .5rem}
+
+.btn-align{margin:0 auto}.btn-2{display:inline-block;background-color:#3065f7}
+
+.footer{background-color:#060339;color:#fff}
+
+.logo-footer{padding-top:5rem;padding-bottom:2rem;filter:brightness(0) invert(1)}
+
+.phone{padding:1rem 0}.email-icon,.phone-icon{display:inline-block;padding-right:1rem}
+
+.email-footer{padding-bottom:3rem}
+
+.footer-spacing,.footer-spacing-2{padding-bottom:1rem}
+
+.footer-spacing-2:hover,.footer-spacing:hover{cursor:pointer;color:#3065f7}
+
+.footer-spacing-2{padding-top:2rem}.social{padding-bottom:3rem}
+
+.fa{border-radius:50%;border:2px solid #fff;padding:.5rem;width:1rem;color:#fff;margin-right:.5rem}
+
+.fa:hover{border:2px solid #3065f7;color:#3065f7}
+
+@media (min-width:767px){.fyloWorks,.row{display:flex}.email,.email-2{text-indent:1.5rem}.tabs{gap:3rem}.logo{width:10rem}.row{flex-direction:row-reverse;justify-content:space-between}.row-2,.row-3{display:flex;justify-content:space-between}.body,.sectionOne,.sectionThree,.sectionTwo,.title,.title-three{text-align:left}.left-col{width:50%}.rigth-col{width:40%}.col{justify-self:center}.card{margin:1rem 0}.fylo{margin:0}.btn{width:35%;padding-top:.5rem;padding-bottom:.5rem;margin:1rem 0;text-align:center}.email{width:60%}.btn-align{padding-top:.6rem}.email-2{width:100%}.email-top{padding-top:3rem}.getStarted{justify-content:space-between}.avatarJob{font-size:.9rem}.arrow{display:inline-block;width:1.5rem}.title-2{font-size:2.2rem}.footer-spacing-2,.phone{padding:0 0 1rem}.btn-2{width:60%}.footer{padding-bottom:3rem}}
